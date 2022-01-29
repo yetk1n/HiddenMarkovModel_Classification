@@ -1,3 +1,5 @@
+Artificial Intelligence Course Assignment  
+
 Each csv file contains sequence of observations corresponding to a manipulation execution.
 
 A single observation (row) contains following features
